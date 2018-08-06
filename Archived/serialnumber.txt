@@ -1,0 +1,1 @@
+wmic /node:"lpt-xxx" bios get serialnumber

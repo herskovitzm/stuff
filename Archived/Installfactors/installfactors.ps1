@@ -1,0 +1,1 @@
+﻿Copy-Item -Path "\\SRV-IT1\scratch\Software Install\Factorsoft Remote App\factors.rdp" -Destination c:\users\public\desktop

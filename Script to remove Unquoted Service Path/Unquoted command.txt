@@ -1,0 +1,7 @@
+Open command prompt as Administrator
+Copy the .ps1 file to C:\Utils
+In that folder run the command below.
+
+powershell .\unquoted.ps1
+
+Once complete, check the log file C:\temp\servicesfixed.log
